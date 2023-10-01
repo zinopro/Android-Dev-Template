@@ -1,6 +1,6 @@
 # Android App Template
 
-This is a GitHub template repository intended to kickstart development on an Android application. This project comes set with a handful of tools that important and relevant to every project. If you think something is missing, or feel strongly that a setup should be changed, please submit an [Issue](https://github.com/zinopro/AndroidAppTemplate/issues/new).
+This is a GitHub template repository intended to kickstart development on an Android application. This project comes set with a handful of tools that important and relevant to every project. If you think something is missing, or feel strongly that a setup should be changed, please submit an issue.
 
 ## Why This Template?
 
@@ -18,10 +18,9 @@ gradle task to have the app module's package name and relevant strings replaced.
 
 ### Cleanup
 
-After [this PR](https://github.com/zinopro/AndroidAppTemplate/pull/44), running the renameTemplate
-task should do all the necessary cleanup like deleting the setup file and test workflow so you can 
+Running the renameTemplate task should do all the necessary cleanup like deleting the setup file and test workflow so you can 
 go ahead and commit the renamed files and be on your way. If you encounter any problems with the setup
-workflow, please report a new [issue](https://github.com/zinopro/AndroidAppTemplate/issues).
+workflow, please report a new [issue]
 
 ## What's Included
 
