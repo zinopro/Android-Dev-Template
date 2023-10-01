@@ -1,18 +1,12 @@
 # Android App Template
 
-This is a GitHub template repository intended to kickstart development on an Android application. This project comes set with a handful of tools that [Adam](https://github.com/AdamMc331) finds important and relevant to every project. If you think something is missing, or feel strongly that a setup should be changed, please submit an [Issue](https://github.com/AdamMc331/AndroidAppTemplate/issues/new).
+This is a GitHub template repository intended to kickstart development on an Android application. This project comes set with a handful of tools that important and relevant to every project. If you think something is missing, or feel strongly that a setup should be changed, please submit an [Issue](https://github.com/zinopro/AndroidAppTemplate/issues/new).
 
 ## Why This Template?
 
 The purpose of this template is to avoid any opinions on writing code. The developers should have the freedom to choose their own architecture, third party dependencies, package structure, and more. 
 
 This template _is_ opinionated about developer tooling. Dependency management is configured, git hooks are defined, code formatting and static analysis are all there, and it even has pull request templates. The purpose of this repo is to help you get started building your next project with confidence in your code, and not telling you how to write it. 
-
-## Walkthrough
-
-If you'd like a video walk through of this template and all it has to offer, you can find that on YouTube. 
-
-https://youtu.be/E0iMUWJn76E
 
 ## Using This Template
 
@@ -24,10 +18,10 @@ gradle task to have the app module's package name and relevant strings replaced.
 
 ### Cleanup
 
-After [this PR](https://github.com/AdamMc331/AndroidAppTemplate/pull/44), running the renameTemplate
+After [this PR](https://github.com/zinopro/AndroidAppTemplate/pull/44), running the renameTemplate
 task should do all the necessary cleanup like deleting the setup file and test workflow so you can 
 go ahead and commit the renamed files and be on your way. If you encounter any problems with the setup
-workflow, please report a new [issue](https://github.com/AdamMc331/AndroidAppTemplate/issues).
+workflow, please report a new [issue](https://github.com/zinopro/AndroidAppTemplate/issues).
 
 ## What's Included
 
